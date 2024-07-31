@@ -24,7 +24,7 @@ This project is a detailed management menu developed using WinForms. It provides
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/yourusername/Management-Menu.git
+    git clone https://github.com/BeratARPA/Management-Menu.git
     ```
 2. **Open with Visual Studio**: Open the project in Visual Studio.
 3. **Install Dependencies**: Ensure all necessary dependencies are resolved.
@@ -49,4 +49,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, feel free to contact me:
 - **Email**: [beratarpa@hotmail.com](mailto:beratarpa@hotmail.com)
-- **GitHub**: [https://github.com/yourusername](https://github.com/yourusername)
+- **GitHub**: [https://github.com/yourusername](https://github.com/BeratARPA)
